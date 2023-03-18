@@ -1,16 +1,16 @@
-# weather
+# Albums-iOS
 
-A new Flutter project.
+## Features
 
-## Getting Started
+- [x] Album List
+- [x] Album Detail
+- [x] Bookmark Album
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<p>
+<img src="https://github.com/samhk852/Albums-iOS/blob/main/Screenshots/albums.png" title="SDWebImage logo" width="117" height="253.2">
+<img src="https://github.com/samhk852/Albums-iOS/blob/main/Screenshots/add_bookmark.png" title="SDWebImage logo" width="117" height="253.2">
+<img src="https://github.com/samhk852/Albums-iOS/blob/main/Screenshots/remove_bookmark.png" title="SDWebImage logo" width="117" height="253.2">
+<img src="https://github.com/samhk852/Albums-iOS/blob/main/Screenshots/album_detail.png" title="SDWebImage logo" width="117" height="253.2">
+<img src="https://github.com/samhk852/Albums-iOS/blob/main/Screenshots/bookmarked_albums.png" title="SDWebImage logo" width="117" height="253.2">
+</p>
